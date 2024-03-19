@@ -14,8 +14,19 @@
 
 이 기능은 모든 앱에 유용합니다. Apple은 모든 SDK가 SDK 사용 비중이 높은 앱들을 위한 지원을 강화하기 위해 이 기능을 도입하는 것을 권장합니다.
 
+## Overview
+
+### Privacy Tracking Enabled
+### Privacy Nutrition Labels  
+- [Types of data](https://developer.apple.com/app-store/app-privacy-details/)
+### Privacy Tracking Domains
+### Privacy Accessed API Types  
+- [Describing use of required reason API](https://developer.apple.com/documentation/bundleresources/privacy_manifest_files/describing_use_of_required_reason_api)
+
+------------------------------------
 
 ## Reference
 - [Describing use of required reason API](https://developer.apple.com/documentation/bundleresources/privacy_manifest_files/describing_use_of_required_reason_api)
 - [Get started with privacy manifests](https://developer.apple.com/wwdc23/10060)
 - [Verify app dependencies with digital signatures](https://developer.apple.com/wwdc23/10061)
+- [Types of data](https://developer.apple.com/app-store/app-privacy-details/)
