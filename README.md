@@ -23,6 +23,13 @@
 ### Privacy Accessed API Types  
 - [Describing use of required reason API](https://developer.apple.com/documentation/bundleresources/privacy_manifest_files/describing_use_of_required_reason_api)
 
+## Privacy report
+Archive 후 Generate Privacy Report 체크  
+Report의 정보들을 이용해 **Privacy Nutrition Label**에 추가
+
+## Test
+TestFlight 외부 테스터 추가 - PrivacyInfo가 포함된 빌드 버전으로 빌드 - 심사 통과 후 결과 전달 받은 내용으로 수정 or 통과
+
 ------------------------------------
 
 ## Reference
